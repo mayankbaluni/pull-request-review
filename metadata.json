@@ -1,0 +1,5 @@
+{
+  "name": "AI Pull Request Code Reviewer",
+  "description": "An AI-powered tool to analyze code diffs in pull requests. It detects logic, security, and quality issues, and provides intelligent, actionable review comments.",
+  "requestFramePermissions": []
+}
